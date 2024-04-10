@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
+    "browserify": "^17.0.0",
+    "face-api.js": "^0.20.0"
+  }
+}
